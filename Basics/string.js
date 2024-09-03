@@ -12,3 +12,20 @@ for example Hasnain has 7 characters and if i want to access H.
 we write function as slice(0,1)
 the output will be H */
 
+
+
+// const sentence = 'The quick brown fox jumps over the lazy dog.';
+// const index = 4;
+// console.log(`The character at index ${index} is ${sentence.charAt(4)}`);
+
+/* 
+indexof()
+charat()
+slice()
+splice()
+incudes()
+trim()
+replace()
+touppercase()
+tolowercase()
+*/
